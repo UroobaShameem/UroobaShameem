@@ -1,10 +1,9 @@
 # Hi 👋 I am Urooba Shameem
-## Freelancer and Student of CS
+## Student of CS
 
 
-### -I’m currently learning 'R' and Web Development.
+### -I’m currently learning Web Development.
 ### -I’m looking to collaborate on Web development and Data related projects.
-### -Fun fact: I'm also a content writer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -12,7 +11,6 @@
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="50" height="50" alt="r logo">
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" alt="java logo">
 <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="50" height="50" alt="cpp logo">
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
