@@ -1,25 +1,16 @@
-# Hi 👋 I am Urooba Shameem
-## Student of CS
+# 💫 About Me:
+🔭 I’m currently practicing Static Webpages<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Website Designing<br>⚡ I'm a CS student
 
 
-### -I’m currently learning Web Development.
-### -I’m looking to collaborate on Web development and Data related projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/urooba-shameem) 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UroobaShameem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UroobaShameem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UroobaShameem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### - Languages and Tools
-<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" alt="java logo">
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="50" height="50" alt="cpp logo">
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
-
-### - 📫 Reach out to me:
-<a href="https://www.linkedin.com/in/urooba-shameem-bb8342231/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-# My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UroobaShameem&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
-# Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UroobaShameem&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/UroobaShameem/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=UroobaShameem&icon=0&color=0)](https://visitcount.itsvg.in)
