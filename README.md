@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently practicing Static Webpages<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Website Designing<br>⚡ I'm a CS student
+🌱 I’m currently learning Website Designing<br>⚡ I'm a CS student
 
 
 ## 🌐 Socials:
