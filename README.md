@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Website Designing<br>⚡ I'm a CS student
+🌱 I’m currently learning Website Designing<br>⚡ I'm a CS student at UBIT
 
 
 ## 🌐 Socials:
