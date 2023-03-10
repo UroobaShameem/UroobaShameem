@@ -6,7 +6,7 @@
 - 💡 I’m currently learning **app development**
 
 - 📫 How to reach me **uroobashameem09@gmail.com**
-- 🔍 Learn more about me uroobashameem.vercel.app/
+- 🔍 Learn more about me https://uroobashameem.vercel.app/
 
 - ⚡ Fun fact **I'm a night owl 🦉**
 
