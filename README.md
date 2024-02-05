@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 🙋‍♀️, I'm Urooba Shameem 🌺</h1>
-<h3 align="center"> A zealous front-end web developer and UI/UX designer 💻</h3>
+<h3 align="center"> A zealous UI/UX designer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroobashameem&label=Profile%20views&color=0e75b6&style=flat" alt="uroobashameem" /> </p>
 
-- 💡 I’m currently **undergrad student at UBIT**
+- 💡 I’m currently **final year undergrad student at UBIT**
 
 - 📫 How to reach me **uroobashameem09@gmail.com**
-- 🔍 Learn more about me https://uroobashameem.vercel.app/
+- 🔍 Learn more about me https://sites.google.com/view/uroobashameem/home
 
 - ⚡ Fun fact **I'm a night owl 🦉**
 
