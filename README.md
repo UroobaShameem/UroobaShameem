@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroobashameem&label=Profile%20views&color=0e75b6&style=flat" alt="uroobashameem" /> </p>
 
-- 💡 I’m currently **final year undergrad student at UBIT**
-
+- 💡 I’m currently working as **UI/UX Designer**
 - 📫 How to reach me **uroobashameem09@gmail.com**
 - 🔍 Learn more about me https://sites.google.com/view/uroobashameem/home
 
